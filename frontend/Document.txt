@@ -1,0 +1,2 @@
+=> Keep all the routes in seperate folder instead of main.tsx
+=> Its goof practice to keep seperate folder for layouts
